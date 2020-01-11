@@ -1,0 +1,8 @@
+﻿  RGR.cpp
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Создание кода
+  286 of 290 functions (98.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  RGR.vcxproj -> D:\CPP_MANCHAK\RGR\x64\Release\RGR.exe
